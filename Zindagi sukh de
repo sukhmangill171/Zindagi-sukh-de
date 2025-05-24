@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pa">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sukhman Gill – ਮੇਰੀ ਜ਼ਿੰਦਗੀ</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f0f0f0;
+      color: #333;
+      margin: 0;
+    }
+    header {
+      background: #1e88e5;
+      color: white;
+      padding: 30px;
+      text-align: center;
+    }
+    section {
+      max-width: 850px;
+      margin: 20px auto;
+      background: white;
+      padding: 25px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #1e88e5;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    ul li {
+      margin-bottom: 8px;
+    }
+    .social-links a {
+      display: inline-block;
+      margin-right: 10px;
+      color: #1e88e5;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Sukhman Gill (ਸੁਖ)</h1>
+  <p>ਮੈਂ ਰਮੂਵਾਲਾ ਨਵਾਂ (ਮੋਗਾ) ਵਿਖੇ ਵੱਸਦਾ ਹਾਂ, ਉਮਰ 18 ਸਾਲ।  
+  <br>ਤੁਸੀਂ ਮੇਰੀ ਵੈੱਬਸਾਈਟ 'ਤੇ ਸਵਾਗਤ ਹੋ। ਇਹ ਮੇਰੀ ਜ਼ਿੰਦਗੀ ਹੈ ਜੋ ਮੈਂ ਤੁਹਾਡੇ ਨਾਲ ਸਾਂਝੀ ਕਰ ਰਿਹਾ ਹਾਂ।</p>
+</header>
+
+<section>
+  <h2>ਮੇਰੇ ਫੇਵਰਿਟ ਪਲੇਅਰ</h2>
+  <ul>
+    <li>Cristiano Ronaldo</li>
+    <li>Lionel Messi</li>
+    <li>Neymar Jr.</li>
+    <li>Kylian Mbappe</li>
+    <li>Sunil Chhetri</li>
+  </ul>
+</section>
+
+<section>
+  <h2>ਮੇਰੇ ਮਨਪਸੰਦ ਗਾਇਕ</h2>
+  <ul>
+    <li>Karan Aujla</li>
+    <li>Diljit Dosanjh</li>
+    <li>Arjan Dhillon</li>
+    <li>Navaan Sandhu</li>
+    <li>Sidhu Moose Wala</li>
+    <li>Jassa Dhillon</li>
+    <li>Cheema Y</li>
+    <li>Gur Sidhu</li>
+  </ul>
+</section>
+
+<section>
+  <h2>ਮੇਰੇ ਫੇਵਰਿਟ ਅਦਾਕਾਰ</h2>
+  <ul>
+    <li>Sanjay Dutt</li>
+    <li>Thalapathy Vijay</li>
+    <li>Shah Rukh Khan</li>
+    <li>Jayy Randhawa</li>
+  </ul>
+</section>
+
+<section class="social-links">
+  <h2>ਮੇਰੇ ਸੋਸ਼ਲ ਮੀਡੀਆ ਲਿੰਕ</h2>
+  <a href="https://www.instagram.com/sukhmangill171/?hl=en" target="_blank">Instagram</a>
+  <a href="https://www.facebook.com/sukhmangill171" target="_blank">Facebook</a>
+  <a href="https://x.com/sukhmangill171?t=6gPmjt4JEuinfxfu2jCUfw&s=09" target="_blank">Twitter</a>
+  <a href="https://www.snapchat.com/add/sukhmangill171?share_id=Mx3pnpKjEd0&locale=en-IN" target="_blank">Snapchat</a>
+</section>
+
+</body>
+</html>
